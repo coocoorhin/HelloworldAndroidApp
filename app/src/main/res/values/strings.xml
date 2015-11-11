@@ -3,4 +3,10 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="user_name_edit_text">Put in your name</string>
+    <string name="happy_question">are you happy</string>
+    <string name="answer_yes_button">yes</string>
+    <string name="answer_no_button">no</string>
+    <string name="button_yes_hint">pick me</string>
+    <string name="answer_no_hint">pick me</string>
 </resources>

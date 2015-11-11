@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Helloworld</string>
+    <string name="action_settings">设置</string>
+    <string name="answer_no_button">不</string>
+    <string name="answer_no_hint">选我</string>
+    <string name="answer_yes_button">是</string>
+    <string name="button_yes_hint">选我</string>
+    <string name="happy_question">你快乐吗</string>
+    <string name="hello_world">你好</string>
+    <string name="user_name_edit_text">输入你的名字</string>
+</resources>
